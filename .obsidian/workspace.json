@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "111112"
             }
+          },
+          {
+            "id": "ca672a22e374e39c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "i18n:I18N": false
     }
   },
-  "active": "b37e78caa50d8030",
+  "active": "ca672a22e374e39c",
   "lastOpenFiles": [
     "LeetCode第7题整数反转.md",
     "Welcome.md",
