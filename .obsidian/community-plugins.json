@@ -8,5 +8,6 @@
   "pkmer",
   "obsidian-custom-attachment-location",
   "i18n",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc"
 ]
