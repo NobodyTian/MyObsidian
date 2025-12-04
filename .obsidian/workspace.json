@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.503604888916
+    "width": 285.503604888916,
+    "collapsed": true
   },
   "right": {
     "id": "7c0e77b9b091912f",
@@ -156,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "111112.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "111112 的大纲"
             }
           }
         ],
@@ -184,7 +186,8 @@
       "bases:创建新数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "pkmer:Open Pkmer Market": false,
-      "i18n:I18N": false
+      "i18n:I18N": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "b37e78caa50d8030",

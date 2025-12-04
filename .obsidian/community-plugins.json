@@ -9,5 +9,6 @@
   "obsidian-custom-attachment-location",
   "i18n",
   "obsidian-git",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]
