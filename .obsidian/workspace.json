@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode第7题整数反转.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode第7题整数反转"
+              "title": "Welcome"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.503604888916
+    "width": 285.503604888916,
+    "collapsed": true
   },
   "right": {
     "id": "7c0e77b9b091912f",
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Welcome 的大纲"
             }
           }
         ],
@@ -189,13 +190,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b02bb74718edac95",
+  "active": "b37e78caa50d8030",
   "lastOpenFiles": [
     "111112.md",
-    "assets/111112/file-20251128154930455.png",
-    "LeetCode第7题整数反转.md",
-    "未命名.canvas",
     "Welcome.md",
+    "LeetCode第7题整数反转.md",
+    "assets/111112/file-20251128154930455.png",
+    "未命名.canvas",
     "~$111112.docx",
     "111112.docx",
     "assets/111112/file-20251125153658535.png",
