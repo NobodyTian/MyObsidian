@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98d51a81ec959560",
+        "id": "f1f7973dadc10c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "38f89da911894893",
+            "id": "f34aea7e481ec788",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.503604888916
+    "width": 285.503604888916,
+    "collapsed": true
   },
   "right": {
     "id": "7c0e77b9b091912f",
@@ -199,12 +200,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "38f89da911894893",
+  "active": "f34aea7e481ec788",
   "lastOpenFiles": [
-    "未命名 1.base",
-    "未命名.base",
-    "111112.md",
     "未命名.canvas",
+    "未命名.base",
+    "未命名 2.base",
+    "111112.md",
+    "未命名 1.base",
     "Welcome.md",
     "LeetCode第7题整数反转.md",
     "assets/111112/file-20251128154930455.png",
@@ -219,8 +221,6 @@
     "未命名/assets/1111",
     "未命名/assets",
     "未命名",
-    "assets/1111",
-    "assets/11111",
     "assets/111112/file-20251124205813679.png",
     "aaa/assets/11111/file-20251124205318208.png",
     "Pasted image 20251124205002.png",
