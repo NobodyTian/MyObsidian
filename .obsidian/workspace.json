@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +199,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "12345ad227fda657",
+  "active": "b02bb74718edac95",
   "lastOpenFiles": [
     "Welcome.md",
     "assets/111112/file-20251128154930455.png",

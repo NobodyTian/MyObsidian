@@ -2,5 +2,10 @@
   "baseFontSizeAction": true,
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views"
+  ]
 }
