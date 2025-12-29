@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "8bd8623bc99fbdbc",
+            "id": "12345ad227fda657",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +198,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f34aea7e481ec788",
+  "active": "12345ad227fda657",
   "lastOpenFiles": [
     "Welcome.md",
     "assets/111112/file-20251128154930455.png",
